@@ -1,4 +1,4 @@
 # LearnToUseGit
 An example for using git
 
-example: I can currecctly use git!!!
+example: I can correctly use git!!!
